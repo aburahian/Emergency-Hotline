@@ -22,8 +22,8 @@ Ans:
 ## 4 What is Event Delegation in JavaScript? Why is it useful? 
 - In the event delegation event add in the parent element and control all the children. It is very easy to use.
 
-## 5 What is the difference between preventDefault() and stopPropagation() methods?
+## 5 What is the difference between preventDefault( ) and stopPropagation() methods?
 - preventDefault() is used to stop submitting the form and reload the page.
-- stopPropagation() is used to stop bubbling up to parent elements.
+- stopPropagation() is used to stop bubbling up to parent elements .
 
  
